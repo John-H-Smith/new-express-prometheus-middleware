@@ -26,5 +26,8 @@
   "peerDependencies": {
     "express": "4.x",
     "prom-client": ">= 10.x <= 13.x"
+  },
+  "devDependencies": {
+    "express": "^4.18.1"
   }
 }
